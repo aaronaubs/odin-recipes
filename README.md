@@ -1,1 +1,1 @@
-This is my practice recipe website to become more familiar with html web design. This has been an excitin project, and I'm truly excited to keep learning and improving my web design in the near future!
+This is my practice recipe website to become more familiar with html web design. This has been an exciting project, and I'm truly excited to keep learning and improving my web design in the near future!
