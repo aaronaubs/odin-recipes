@@ -1,0 +1,38 @@
+html{
+    background: linear-gradient(to right, white, lightgrey);
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    cursor: default;
+}
+
+img#beef-stew-bowl{
+    max-width: 60%;
+    height: auto;
+}
+
+button.return{
+    background: linear-gradient(to right, rgb(255, 141, 2), rgb(191, 0, 0));
+    font-weight: 800;
+    font-size: 16px;
+    padding: 5px;
+    border: black 3px solid;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+.return:hover{
+    background: rgb(120, 119, 119);
+    : black;
+}
+
+p{
+    font-size: 16px;
+}
+
+ol li,
+ul li{
+    font-size: 15px;
+    padding: 1px 0;
+}
