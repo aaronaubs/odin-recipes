@@ -24,15 +24,13 @@ button a{
 
 .return:hover{
     background: rgb(120, 119, 119);
-    : black;
 }
 
 p{
     font-size: 16px;
 }
 
-ol li,
-ul li{
+li{
     font-size: 15px;
     padding: 1px 0;
 }
